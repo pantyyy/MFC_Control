@@ -1,0 +1,16 @@
+﻿生成启动时间为 2018/12/24 21:25:25。
+     1>项目“D:\15PB\15PBproject\MFC控件\编辑框\编辑框.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\编辑框.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "编辑框Dlg.cpp"
+         编辑框Dlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\15PB\15PBproject\MFC控件\Debug\编辑框.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\15PB\15PBproject\MFC控件\Debug\编辑框.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\15PB\15PBproject\MFC控件\Debug\编辑框.lib" /MACHINE:X86 "Debug\编辑框.res"
+         Debug\stdafx.obj
+         "Debug\编辑框.obj"
+         "Debug\编辑框Dlg.obj"
+         编辑框.vcxproj -> D:\15PB\15PBproject\MFC控件\Debug\编辑框.exe
+     1>已完成生成项目“D:\15PB\15PBproject\MFC控件\编辑框\编辑框.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.21

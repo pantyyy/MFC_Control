@@ -1,0 +1,19 @@
+﻿生成启动时间为 2018/12/13 21:05:40。
+     1>项目“D:\15PB\15PBproject\MFC控件\下拉框\下拉框.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\下拉框.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "下拉框.cpp" "下拉框Dlg.cpp"
+         下拉框Dlg.cpp
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         下拉框.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\15PB\15PBproject\MFC控件\Debug\下拉框.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\15PB\15PBproject\MFC控件\Debug\下拉框.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\15PB\15PBproject\MFC控件\Debug\下拉框.lib" /MACHINE:X86 "Debug\下拉框.res"
+         Debug\stdafx.obj
+         "Debug\下拉框.obj"
+         "Debug\下拉框Dlg.obj"
+         下拉框.vcxproj -> D:\15PB\15PBproject\MFC控件\Debug\下拉框.exe
+     1>已完成生成项目“D:\15PB\15PBproject\MFC控件\下拉框\下拉框.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.81

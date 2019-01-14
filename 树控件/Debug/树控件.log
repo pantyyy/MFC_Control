@@ -1,0 +1,21 @@
+﻿生成启动时间为 2018/12/14 15:45:46。
+     1>项目“D:\15PB\15PBproject\MFC控件\树控件\树控件.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\树控件.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "树控件.cpp" "树控件Dlg.cpp"
+         树控件Dlg.cpp
+         正在生成代码...
+         正在编译...
+         树控件.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\树控件.res" "树控件.rc" 
+         
+         
+         
+         
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(1267,5): error MSB6006: “rc.exe”已退出，代码为 4。
+     1>已完成生成项目“D:\15PB\15PBproject\MFC控件\树控件\树控件.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.52
